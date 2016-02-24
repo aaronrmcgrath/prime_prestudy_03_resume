@@ -1,0 +1,114 @@
+
+html, body, h1, h2, h3, p {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font-size: 100%;
+  font: inherit;
+}
+
+html {
+	background-color: whitesmoke;
+	margin: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 20px;
+  background-color: white;
+	border-radius: 10px;
+  width: 250px;
+  height: 100px;
+}
+
+header {
+	margin: 35px 0 10px 0;
+	background-color: white;
+	border-radius: 10px;
+	color: black;
+	text-shadow: 1px 1px 2px #999999;
+	box-shadow: 5px 5px 10px #545454;
+}
+header h1 {
+	font-size: 60px;
+	padding: 15px 0 10px 0;
+	text-decoration: underline;
+}
+
+header img {
+	float: left;
+	border-radius: 5px;
+  width: 200px;
+  height: 160px;
+  margin: 10px;
+}
+
+header p {
+	float: center;
+	font-size: 18px;
+}
+.experience {
+	margin-top: 60px;
+}
+
+.education {
+	background-color: white;
+	border-radius: 10px;
+	padding: 11px 11px 5px 11px;
+	box-shadow: 5px 5px 10px #545454;
+	margin-bottom: 30px;
+}
+
+.community {
+	background-color: white;
+	border-radius: 10px;
+	padding: 11px 11px 5px 11px;
+	box-shadow: 5px 5px 10px #545454;
+	margin-bottom: 30px;
+}
+
+.employment {
+	background-color: white;
+	border-radius: 10px;
+	padding: 11px 11px 5px 11px;
+	box-shadow: 5px 5px 10px #545454;
+	margin-bottom: 30px;
+}
+
+.experience h2 {
+	text-shadow: 1px 1px 2px #999999;
+	font-size: 25px;
+	text-decoration: underline;
+	margin-bottom: 20px;
+}
+
+.experience h3, p {
+	padding: 0 75px 15px 75px;
+}
+
+.experience p {
+	margin-left: 15px;
+}
+
+.experience h3 {
+	text-shadow: 1px 1px 2px #999999;
+	font-size: 20px;
+}
+
+.contact-me {
+	background-color: white;
+	border-radius: 10px;
+	padding: 11px 11px 5px 11px;
+	box-shadow: 5px 5px 10px #545454;
+	margin-bottom: 30px;
+}
+
+form {
+	text-align: center;
+}
+footer {
+	text-align: center;
+}
